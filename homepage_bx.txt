@@ -1,0 +1,18 @@
+<div class="slider">
+		      	<ul class="bxslider">
+                    				    <li><h2>This is the main heading</h2>
+                    				    <p>Lorem Ipsum is simply dummy text of the printing </p>
+                    				    <a href="#">Learn more</a>
+                    				    </li>
+                    				    <li>
+                    				    <h2>This is the main heading</h2>
+                    				    <p>Lorem Ipsum is simply dummy text of the printing </p>
+                    				    <a href="#">Learn more</a>
+                    				    </li>
+                    				    <li>
+                    				    <h2>This is the main heading</h2>
+                    				    <p>Lorem Ipsum is simply dummy text of the printing </p>
+                    				    <a href="#">Learn more</a>
+                    				    </li>
+                                    </ul>
+    </div>
